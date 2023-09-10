@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chhschou
+- 👋 Hi, I’m @zfwf
 - 👀 I’m interested in Rust
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Rust web development
